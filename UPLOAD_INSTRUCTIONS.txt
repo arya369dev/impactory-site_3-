@@ -1,0 +1,1 @@
+UPLOAD ALL 7 IMAGES TO GitHub /assets/logos/ (not repository root). Preserve exact filenames and lowercase extensions. Replace projects.js, script.js, style.css in repository root. Commit, then wait for Vercel redeploy. Test https://YOURDOMAIN/assets/logos/just-video.png in browser. If 404, file path is wrong.
