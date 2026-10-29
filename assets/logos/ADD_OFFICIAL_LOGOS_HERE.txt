@@ -1,2 +1,0 @@
-Place the exact official logo files here, then set each logo path in projects.js.
-Example: assets/logos/nagarik.png
